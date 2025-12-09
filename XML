@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>CFA du Cnam - Actualités apprentis</title>
+    <link>https://cfa-idf.cnam.fr/</link>
+    <description>Retrouvez ici les dernières actualités, conseils et ressources dédiées aux apprentis du CFA du Cnam.</description>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 08 Dec 2025 13:00:00 +0100</lastBuildDate>
+
+    <!-- Image du flux -->
+    <image>
+      <url>https://images.squarespace-cdn.com/content/v1/62efa17b49fd451dca240878/757f50ac-6a3d-4097-9d2b-5e540e43675b/TANK_CNAM_04.jpeg</url>
+      <title>CFA du Cnam - Actualités apprentis</title>
+      <link>https://cfa-idf.cnam.fr/</link>
+    </image>
+
+    <!-- ITEM 1 -->
+    <item>
+      <title>Toutes les formations accessibles en apprentissage au CFA du Cnam</title>
+      <link>https://cfa-idf.cnam.fr/formations/choisir-ma-formation/</link>
+
+      <!-- IMAGE ITEM 1 -->
+      <enclosure 
+        url="https://images.squarespace-cdn.com/content/v1/62efa17b49fd451dca240878/757f50ac-6a3d-4097-9d2b-5e540e43675b/TANK_CNAM_04.jpeg"
+        length="1234"
+        type="image/jpeg" />
+
+      <description><![CDATA[
+        <p><strong>Vous souhaitez suivre une formation en apprentissage ?</strong></p>
+        <p>Le CFA du Cnam propose un ensemble complet de parcours allant du Bac+2 au Bac+5,
+        conçus pour vous accompagner vers une insertion professionnelle réussie.</p>
+
+        <p>Que vous envisagiez une carrière dans l’informatique, le management,
+        les ressources humaines, la gestion, l’industrie ou d'autres domaines,
+        vous trouverez une formation adaptée à votre projet.</p>
+
+        <p>Consultez toutes les formations éligibles à l’apprentissage :</p>
+        <p><a href="https://cfa-idf.cnam.fr/formations/choisir-ma-formation/">Accéder au catalogue des formations</a></p>
+
+        <img src="https://images.squarespace-cdn.com/content/v1/62efa17b49fd451dca240878/757f50ac-6a3d-4097-9d2b-5e540e43675b/TANK_CNAM_04.jpeg"
+             width="600" alt="Formations en apprentissage au Cnam" />
+      ]]></description>
+
+      <pubDate>Mon, 08 Dec 2025 12:30:00 +0100</pubDate>
+      <guid isPermaLink="false">news-formations-20251208</guid>
+    </item>
+
+    <!-- ITEM 2 -->
+    <item>
+      <title>Réussir son entretien d’admission au CFA du Cnam : le guide complet</title>
+      <link>https://cfa-idf.cnam.fr/admission/reussir-son-entretien-/</link>
+
+      <!-- IMAGE ITEM 2 -->
+      <enclosure 
+        url="https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=1200"
+        length="1234"
+        type="image/jpeg" />
+
+      <description><![CDATA[
+        <p><strong>Vous avez un entretien d’admission prochainement ?</strong></p>
+        <p>Le CFA du Cnam met à votre disposition un guide pratique pour optimiser 
+        votre préparation et mettre toutes les chances de votre côté.</p>
+
+        <p>Vous apprendrez notamment à :</p>
+        <ul>
+          <li>valoriser votre parcours et votre motivation ;</li>
+          <li>répondre sereinement aux questions du jury ;</li>
+          <li>éviter les pièges et erreurs fréquentes ;</li>
+          <li>présenter un projet professionnel clair et cohérent.</li>
+        </ul>
+
+        <p>Préparez-vous efficacement en consultant les conseils officiels :</p>
+        <p><a href="https://cfa-idf.cnam.fr/admission/reussir-son-entretien-/">Lire le guide</a></p>
+
+        <img src="https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=1200"
+             width="600" alt="Conseils pour réussir son entretien d'admission" />
+      ]]></description>
+
+      <pubDate>Mon, 08 Dec 2025 12:45:00 +0100</pubDate>
+      <guid isPermaLink="false">news-entretien-20251208</guid>
+    </item>
+
+  </channel>
+</rss>
